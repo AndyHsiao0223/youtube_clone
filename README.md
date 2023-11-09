@@ -5,35 +5,15 @@ I use this project to pratice my skills. Hope I can become a better programmer i
 [Deploy on Netlify](https://cute-jalebi-add575.netlify.app)
 
 ## Techniques
-* Language: ReactJS
+* Language: JavaScript
 
-* Framework: Create React App
+* Framework: CRA
 
-* Library: Material UI, AXIOS, react-router-dom, react-player
+* Library: React Material UI, AXIOS, react-router-dom, react-player
 
 * API: Rapid API - Youtube v3
 
 * Depoly: Netlify
-
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
 
 ## Sources
 [JavaScript Mastery
