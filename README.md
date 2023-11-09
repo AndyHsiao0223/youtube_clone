@@ -1,5 +1,5 @@
 # youtube_clone
-I use this project to pratice my skills. Hope I can become a better programmer in Frontend.
+I use this project to pratice React, Rapid API and Deployment.
 
 ## Deployment
 [Deploy on Netlify](https://cute-jalebi-add575.netlify.app)
