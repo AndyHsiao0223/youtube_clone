@@ -1,5 +1,5 @@
 # youtube_clone
-I use this project to pratice React, Rapid API and Deployment.
+I use this project to pratice React, Material UI, AXIOS, Rapid API and Deployment.
 
 ## Deployment
 [Deploy on Netlify](https://cute-jalebi-add575.netlify.app)
@@ -14,9 +14,3 @@ I use this project to pratice React, Rapid API and Deployment.
 * API: Rapid API - Youtube v3
 
 * Depoly: Netlify
-
-## Sources
-[JavaScript Mastery
-](https://www.youtube.com/watch?v=FHTbsZEJspU)
-
-If have any problem about copyright, please contact me in Issue. I'll solve it, thanks.
